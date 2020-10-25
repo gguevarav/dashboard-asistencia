@@ -13,7 +13,8 @@
       </v-img>
       <v-card-subtitle align="center">
           <h2>Análisis de Sistemas II</h2>
-          <h3>Análisis y Diseño No. 5</h3>
+          <h3>Proyecto de curso</h3>
+          <h4>Fase II</h4>
       </v-card-subtitle>
       <v-card-text>
           <v-container>
@@ -90,7 +91,7 @@
                       cols="6"
                       md="6"
                       sm="6">
-                      <v-btn icon href="https://github.com/gguevarav/algoritmoEncriptacion" target="_blank">
+                      <v-btn icon href="https://github.com/gguevarav/dashboard-asistencia" target="_blank">
                         <v-icon>mdi-github</v-icon>
                       </v-btn>
                     </v-col>
@@ -105,7 +106,7 @@
                       cols="6"
                       md="6"
                       sm="6">
-                      <v-btn icon href="https://github.com/gguevarav/algoritmoEncriptacion" target="_blank">
+                      <v-btn icon href="https://github.com/gguevarav/dashboard-asistencia" target="_blank">
                         <v-icon>mdi-file-document</v-icon>
                       </v-btn>
                     </v-col>
@@ -120,7 +121,7 @@
                       cols="6"
                       md="6"
                       sm="6">
-                      <v-btn icon href="https://github.com/gguevarav/algoritmoEncriptacion" target="_blank">
+                      <v-btn icon href="https://github.com/gguevarav/dashboard-asistencia" target="_blank">
                         <v-icon>mdi-cog</v-icon>
                       </v-btn>
                     </v-col>

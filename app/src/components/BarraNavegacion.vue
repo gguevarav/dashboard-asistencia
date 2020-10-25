@@ -33,7 +33,7 @@
       <v-divider></v-divider>
       <v-list nav dense flat>
         <v-list-item-group>
-          <v-list-item :to="{name: 'home'}">
+          <v-list-item :to="{name: 'Home'}">
             <v-list-item-icon>
               <v-icon>mdi-home</v-icon>
             </v-list-item-icon>
