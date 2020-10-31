@@ -20,13 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5dd0ead5-e25a-4cfa-bc5c-5c75d6984e43" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/app/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/components/BarraNavegacion.vue" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/components/BarraNavegacion.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/components/HelloWorld.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/views/About.vue" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/views/About.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/plugins/vuetify.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/plugins/vuetify.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/views/Dashboard.vue" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/views/Dashboard.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/views/Home.vue" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/views/Home.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +48,23 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RunManager">
+    <configuration name="serve" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/app/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="serve" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.serve" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -60,7 +74,9 @@
       <option name="presentableId" value="Default" />
       <updated>1603619966714</updated>
       <workItem from="1603619968890" duration="303000" />
-      <workItem from="1603620292498" duration="3190000" />
+      <workItem from="1603620292498" duration="3811000" />
+      <workItem from="1604041443370" duration="58000" />
+      <workItem from="1604142808859" duration="5579000" />
     </task>
     <servers />
   </component>
@@ -77,5 +93,24 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="627" height="177" key="GridCell.Tab.0.bottom" timestamp="1604134774193">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="627" height="177" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1604134774193" />
+    <state width="627" height="177" key="GridCell.Tab.0.center" timestamp="1604134774193">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="627" height="177" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1604134774193" />
+    <state width="627" height="177" key="GridCell.Tab.0.left" timestamp="1604134774192">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="627" height="177" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1604134774192" />
+    <state width="627" height="177" key="GridCell.Tab.0.right" timestamp="1604134774193">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="627" height="177" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1604134774193" />
   </component>
 </project>

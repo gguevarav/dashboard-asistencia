@@ -1,26 +1,14 @@
 <template>
   <div>
     <v-row>
-      <v-colv
-          cols="6"
-          md="6"
-          sm="12">
-        <iframe
-            width="400px"
-            height="400px"
-            src="https://app.powerbi.com/view?r=eyJrIjoiMjI5OWE5NTItNjk2MC00Yjg5LWFmNDAtMDEwNzY4MDZmODgwIiwidCI6IjVmNTNiNGNlLTYzZDQtNGVlOC04OGQyLTIyZjBiMmQ0YjI3YSIsImMiOjR9&pageName=ReportSection"
-            frameborder="0"
-            allowFullScreen="true">
-        </iframe>
-      </v-colv>
       <v-col
-          cols="6"
-          md="6"
+          cols="12"
+          md="12"
           sm="12">
         <iframe
-            width="600px"
-            height="400px"
-            src="https://app.powerbi.com/view?r=eyJrIjoiMWQ1ZjJjMDItMWNmYi00ZWQyLWJlM2EtYjNjMWQwMzM3ZDljIiwidCI6IjYxMThkOGJkLTQ0YjQtNGRmNS1hY2NhLWEyOTU5NmI1NDNlNiIsImMiOjR9"
+            width="1024"
+            height="600"
+            src="https://app.powerbi.com/view?r=eyJrIjoiNGUyZmNlMWUtZTI1MC00YTNhLWJiZmMtYzBhZGE4MGRhNzU0IiwidCI6IjVmNTNiNGNlLTYzZDQtNGVlOC04OGQyLTIyZjBiMmQ0YjI3YSIsImMiOjR9&pageName=ReportSection"
             frameborder="0"
             allowFullScreen="true">
         </iframe>

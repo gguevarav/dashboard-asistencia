@@ -1,7 +1,7 @@
 <template>
   <div>
     <v-app-bar
-      color="brown darken-3"
+      color="primary"
       dark
       app>
       <v-app-bar-nav-icon
@@ -15,7 +15,7 @@
       </v-toolbar-title>
     </v-app-bar>
     <v-navigation-drawer
-      color="teal darken-4"
+      color="secondary"
       v-model="barraNavegacion"
       app
       floating
